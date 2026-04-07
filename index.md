@@ -51,5 +51,5 @@ _(arXiv, 2025)_
 ---
 
 ## Links
-- [Curriculum Vitae](Dibyajyoti_resume.pdf)  
+- 📄 [Curriculum Vitae](Dibyajyoti_resume.pdf)  
 
