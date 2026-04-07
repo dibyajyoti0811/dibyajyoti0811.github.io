@@ -51,6 +51,5 @@ _(arXiv, 2025)_
 ---
 
 ## Links
-- CV (coming soon)  
-- Research Statement (coming soon)
+- [Curriculum Vitae](Dibyajyoti_resume.pdf)  
 
