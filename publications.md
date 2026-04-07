@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: single
 title: "Publications"
+permalink: /publications/
 ---
-
 ## Journal Articles
 
 **Effect of topological length on bound state signatures in a topological nanowire**  
