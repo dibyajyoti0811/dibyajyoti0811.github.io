@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: single
+author_profile: true
 title: ""
 ---
 _Ph.D. Candidate, Theoretical Condensed Matter Physics_  
