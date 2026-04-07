@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: ""
+title: "Dibyajyoti Sahu"
 ---
 _Ph.D. Candidate, Theoretical Condensed Matter Physics_  
 IISER Bhopal
