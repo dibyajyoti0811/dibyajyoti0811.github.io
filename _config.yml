@@ -6,3 +6,13 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 
+author:
+  name: "Dibyajyoti Sahu"
+  avatar: "/profile.jpg"
+  bio: "Ph.D. Candidate in Theoretical Condensed Matter Physics"
+  location: "IISER Bhopal, India"
+  email: "dibyajyoti20@iiserb.ac.in"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=PQMwxM4AAAAJ&hl=en&oi=ao"
