@@ -5,6 +5,8 @@ remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
+include:
+  - assets/css
 
 author:
   name: "Dibyajyoti Sahu"
