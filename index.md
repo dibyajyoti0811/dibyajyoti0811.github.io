@@ -31,7 +31,7 @@ In parallel, I investigate optimal driving protocols in spin systems to suppress
 4. **Suppressing excitations using quantum-Brachistochrone and nearest-neighbour interactions**  
    (arXiv, 2025)
 
-👉 Full list: [Google Scholar](https://scholar.google.com/)  
+👉 Full list: [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=PQMwxM4AAAAJ&hl=en))  
 
 ## Contact
 - Email: dibyajyoti20@iiserb.ac.in  
