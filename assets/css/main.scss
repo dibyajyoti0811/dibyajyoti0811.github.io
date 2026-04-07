@@ -4,8 +4,16 @@
 
 @import "minimal-mistakes";
 
-/* remove fade */
+/* remove fade completely */
+.author__avatar,
 .author__avatar img {
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+/* remove hover effect too */
+.author__avatar:hover,
+.author__avatar img:hover {
   opacity: 1 !important;
   filter: none !important;
 }
