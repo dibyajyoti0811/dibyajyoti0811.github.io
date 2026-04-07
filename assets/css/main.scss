@@ -1,0 +1,11 @@
+---
+# only main scss file
+---
+
+@import "minimal-mistakes";
+
+/* remove fade */
+.author__avatar img {
+  opacity: 1 !important;
+  filter: none !important;
+}
