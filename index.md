@@ -35,7 +35,7 @@ _Phys. Rev. B (2023)_
 _Phys. Rev. B (2024)_
 
 **Transport of Majorana bound states in the presence of telegraph noise**  
-_(2025)_
+_Phys. Rev. B (2025)_
 
 **Suppressing excitations using quantum-Brachistochrone and nearest-neighbour interactions**  
 _(arXiv, 2025)_
