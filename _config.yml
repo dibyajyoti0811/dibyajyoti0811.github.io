@@ -6,6 +6,13 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 
-header_pages:
-  - index.md
-  - publications.md
+# Navigation
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+
+# Enable navigation
+header:
+  nav: main
