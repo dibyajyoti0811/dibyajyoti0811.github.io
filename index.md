@@ -24,23 +24,6 @@ A significant part of my research focuses on Majorana bound states in engineered
 
 In parallel, I investigate optimal driving protocols in spin systems to suppress excitations and improve robustness against noise. More recently, I am working on non-Hermitian and open quantum systems, focusing on localization transitions, mobility edges, and the interplay between dissipation and transport.
 
----
-
-## Publications
-
-**Effect of topological length on bound state signatures in a topological nanowire**  
-_Phys. Rev. B (2023)_
-
-**Transport phenomena and correlation dynamics of a one-dimensional effective Hamiltonian equivalent to the hexagonal Harper model**  
-_Phys. Rev. B (2024)_
-
-**Transport of Majorana bound states in the presence of telegraph noise**  
-_Phys. Rev. B (2025)_
-
-**Suppressing excitations using quantum-Brachistochrone and nearest-neighbour interactions**  
-_(arXiv, 2025)_
-
-👉 Full list: [Google Scholar](https://scholar.google.com/citations?user=PQMwxM4AAAAJ&hl=en&oi=ao)  
 
 ---
 
