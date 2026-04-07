@@ -1,0 +1,4 @@
+.author__avatar img {
+  opacity: 1 !important;
+  filter: contrast(1.05) brightness(1.02);
+}
